@@ -290,7 +290,7 @@ export const Bio = {
       tags: ["React Js", "Node JS", "Appwrite", "Tailwind CSS", "Tiny MCE"],
       category: "web app",
       github: "https://github.com/MashookhKhanlol/Blog-Website/tree/main",
-      webapp: "https://vespera-blog-p4w9udqlk-mashookhkhanlols-projects.vercel.app/",
+      webapp: "https://vespera-blog--chi.vercel.app/",
     },
     {
       id: 4,
