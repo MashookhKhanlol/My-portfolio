@@ -246,12 +246,12 @@ export const Bio = {
   export const projects = [
     {
       id: 1,
-      title: "Vexa",
+      title: "Podstream",
       date: "June 2024 - Present",
       description:
-        "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+        "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
       image:
-        "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+        "https://github.com/user-attachments/assets/cc4eda86-661f-471e-a474-1f470ce3c1d4",
       tags: [
         "React Js",
         "MongoDb",
@@ -261,8 +261,8 @@ export const Bio = {
         "NodeMailer",
       ],
       category: "web app",
-      github: "https://github.com/rishavchanda/Project-Management-App",
-      webapp: "https://vexa-app.netlify.app/",
+      github: "https://github.com/MashookhKhanlol/podstream",
+      webapp: "https://podstream.netlify.app/",
     },
     {
       id: 2,
