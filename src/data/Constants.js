@@ -253,12 +253,7 @@ export const Bio = {
       image:
         "https://github.com/user-attachments/assets/cc4eda86-661f-471e-a474-1f470ce3c1d4",
       tags: [
-        "React Js",
-        "MongoDb",
-        "Node Js",
-        "Express Js",
-        "Redux",
-        "NodeMailer",
+        "React Js", "MongoDb", "Node Js", "Express Js", "Redux"
       ],
       category: "web app",
       github: "https://github.com/MashookhKhanlol/podstream",
