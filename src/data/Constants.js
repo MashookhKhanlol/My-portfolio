@@ -50,6 +50,11 @@ export const Bio = {
           image:
             "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
         },
+        {
+          name: "Typescript",
+          image:
+            "https://miro.medium.com/v2/resize:fit:848/1*XekpXMwciW-nV0gtMr9Z3w.png",
+        },
       ],
     },
     {
@@ -246,18 +251,18 @@ export const Bio = {
   export const projects = [
     {
       id: 1,
-      title: "Podstream",
+      title: "Meal Dash",
       date: "June 2024 - Present",
       description:
-        "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+        "FoodDash is a dynamic food delivery platform offering dedicated interfaces for customers and restaurant owners. Built with React.js, TypeScript, ShadCN UI, and Tailwind CSS, it delivers a seamless user experience with a modern and responsive design. The backend, powered by Node.js and MongoDB, enables efficient data handling and real-time order management. Secure payments are facilitated through Stripe, while user authentication is managed via Auth0, ensuring robust security. This scalable application bridges the gap between users and restaurants, providing intuitive features like order tracking, menu updates, and efficient operations, addressing key needs in the food delivery ecosystem.",
       image:
-        "https://github.com/user-attachments/assets/cc4eda86-661f-471e-a474-1f470ce3c1d4",
+        "https://github.com/user-attachments/assets/addfa786-b218-463d-ac9d-9e2560728b85",
       tags: [
-        "React Js", "MongoDb", "Node Js", "Express Js", "Redux"
+        "React Js", "MongoDb", "Node Js", "Express Js", "Typescript", "Stripe" , "Auth0"
       ],
       category: "web app",
-      github: "https://github.com/MashookhKhanlol/podstream",
-      webapp: "https://podstream.netlify.app/",
+      github: "https://github.com/MashookhKhanlol/Food-Delivery-App",
+      webapp: "",
     },
     {
       id: 2,
