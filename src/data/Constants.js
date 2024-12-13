@@ -189,7 +189,7 @@ export const Bio = {
       description:
         "Developed a React app allowing users to add, delete, and view blog posts, enhancing user engagement and content management.",
       image:
-        "https://github.com/user-attachments/assets/2f5ea1c2-5ea0-40d1-ab94-aa565067ff8c",
+        "https://github.com/user-attachments/assets/bf57f91c-9221-436e-8899-2bffb156e19d",
       tags: ["React Js", "Node JS", "Appwrite", "Tailwind CSS", "Tiny MCE"],
       category: "web app",
       github: "https://github.com/MashookhKhanlol/Blog-Website/tree/main",
