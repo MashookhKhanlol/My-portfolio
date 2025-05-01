@@ -62,6 +62,10 @@ export const Bio = {
           {
               name: "Java",
               image: "https://imgs.search.brave.com/7CNJPeKwLM_R7LiOmwGJwU6IzNL4IyeQM9CqRsUf-jE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvamF2/YS1wcm9ncmFtbWlu/Zy1sYW5ndWFnZS1s/b2dvLXRyYW5zcGFy/ZW50LW8wZzBhZjJ5/YWlheG1hZ2YtMi5w/bmc"
+          },
+          {
+              name : "Tailwind",
+              image: "https://imgs.search.brave.com/NiZTO3CFlWCRruvO6WyMS6kqrOBiYAOo95HD8SNH9gA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YXJlc291cmNlLnNm/bzIuZGlnaXRhbG9j/ZWFuc3BhY2VzLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NC8wOS8xMDE3MDk0/NS9UYWlsd2luZC1D/U1MtTG9nby1QTkct/RGVzaWduLnBuZw"
           }
       ],
     },
