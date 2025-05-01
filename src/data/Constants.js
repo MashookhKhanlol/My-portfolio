@@ -55,6 +55,14 @@ export const Bio = {
           image:
             "https://miro.medium.com/v2/resize:fit:848/1*XekpXMwciW-nV0gtMr9Z3w.png",
         },
+          {
+              name: "Python",
+              image: "https://www.stickpng.com/img/icons-logos-emojis/tech-companies/python-logo"
+          },
+          {
+              name: "Java",
+              image: "https://wallpapers.com/java-logo-transparent-png"
+          }
       ],
     },
     {
