@@ -160,7 +160,7 @@ export const Bio = {
       ],
       category: "web app",
       github: "https://github.com/MashookhKhanlol/Food-Delivery-App",
-      webapp: "https://github.com/MashookhKhanlol/Food-Delivery-App",
+      webapp: "https://meal-dash-frontend.onrender.com",
     },
     {
       id: 2,
