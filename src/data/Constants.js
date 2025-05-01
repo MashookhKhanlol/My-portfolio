@@ -57,11 +57,11 @@ export const Bio = {
         },
           {
               name: "Python",
-              image: "https://www.stickpng.com/img/icons-logos-emojis/tech-companies/python-logo"
+              image: "https://imgs.search.brave.com/LAD9a2Vl5wwRqGNxI26amZ2B-iuo8xZAaDWDBnwBW38/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvNS9QeXRo/b24tUE5HLnBuZw"
           },
           {
               name: "Java",
-              image: "https://wallpapers.com/java-logo-transparent-png"
+              image: "https://imgs.search.brave.com/7CNJPeKwLM_R7LiOmwGJwU6IzNL4IyeQM9CqRsUf-jE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvamF2/YS1wcm9ncmFtbWlu/Zy1sYW5ndWFnZS1s/b2dvLXRyYW5zcGFy/ZW50LW8wZzBhZjJ5/YWlheG1hZ2YtMi5w/bmc"
           }
       ],
     },
