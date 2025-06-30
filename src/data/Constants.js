@@ -165,7 +165,22 @@ export const Bio = {
   export const projects = [
     {
       id: 1,
-      title: "Meal Dash",
+      title: "Meal Dash- Food Delivery Web App",
+      date: "Sept 2024 - Present",
+      description:
+        "FoodDash is a dynamic food delivery platform offering dedicated interfaces for customers and restaurant owners. Built with React.js, TypeScript, ShadCN UI, and Tailwind CSS, it delivers a seamless user experience with a modern and responsive design. The backend, powered by Node.js and MongoDB, enables efficient data handling and real-time order management. Secure payments are facilitated through Stripe, while user authentication is managed via Auth0, ensuring robust security. This scalable application bridges the gap between users and restaurants, providing intuitive features like order tracking, menu updates, and efficient operations, addressing key needs in the food delivery ecosystem.",
+      image:
+        "https://github.com/user-attachments/assets/addfa786-b218-463d-ac9d-9e2560728b85",
+      tags: [
+        "React Js", "MongoDb", "Node Js", "Express Js", "Typescript", "Stripe" , "Auth0"
+      ],
+      category: "web app",
+      github: "https://github.com/MashookhKhanlol/Food-Delivery-App",
+      webapp: "https://meal-dash-frontend.onrender.com",
+    },
+       {
+      id: 2,
+      title: "Nomisma -Personal Finance and Budget Tracker",
       date: "Sept 2024 - Present",
       description:
         "FoodDash is a dynamic food delivery platform offering dedicated interfaces for customers and restaurant owners. Built with React.js, TypeScript, ShadCN UI, and Tailwind CSS, it delivers a seamless user experience with a modern and responsive design. The backend, powered by Node.js and MongoDB, enables efficient data handling and real-time order management. Secure payments are facilitated through Stripe, while user authentication is managed via Auth0, ensuring robust security. This scalable application bridges the gap between users and restaurants, providing intuitive features like order tracking, menu updates, and efficient operations, addressing key needs in the food delivery ecosystem.",
@@ -179,8 +194,8 @@ export const Bio = {
       webapp: "https://meal-dash-frontend.onrender.com",
     },
     {
-      id: 2,
-      title: "Tune Tutor",
+      id: 3,
+      title: "Tune Tutor-Music Course Website",
       date: "Jan 2024 - Feb 2024",
       description:
         "•	Crafted a modern and interactive music course website using Next.js, providing users with a seamless learning experience.",
@@ -199,7 +214,7 @@ export const Bio = {
       webapp: "https://music-app-nextjs-nu.vercel.app/",
     },
     {
-      id: 3,
+      id: 4,
       title: "Vespera Blog",
       date: "Dec 2023",
       description:
@@ -212,7 +227,7 @@ export const Bio = {
       webapp: "https://vespera-blog--chi.vercel.app/",
     },
     {
-      id: 4,
+      id: 5,
       title: "Currency Convertor",
       date: "Jun 2023",
       description:
@@ -225,7 +240,7 @@ export const Bio = {
       webapp: "https://currency-convertor-rosy-psi.vercel.app/",
     },
     {
-      id: 5,
+      id: 6,
       title: "Todo App",
       date: "July 2023",
       description:
@@ -238,7 +253,7 @@ export const Bio = {
       webapp: "https://todo-app-omega-ten-70.vercel.app/",
     },
     {
-      id: 6,
+      id: 7,
       title: "Password Generator",
       date: "Jun 2023",
       description:
