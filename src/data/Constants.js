@@ -166,7 +166,7 @@ export const Bio = {
     {
       id: 1,
       title: "Meal Dash- Food Delivery Web App",
-      date: "Sept 2024 - Present",
+      date: "Sept 2024 - Dec 2024",
       description:
         "FoodDash is a dynamic food delivery platform offering dedicated interfaces for customers and restaurant owners. Built with React.js, TypeScript, ShadCN UI, and Tailwind CSS, it delivers a seamless user experience with a modern and responsive design. The backend, powered by Node.js and MongoDB, enables efficient data handling and real-time order management. Secure payments are facilitated through Stripe, while user authentication is managed via Auth0, ensuring robust security. This scalable application bridges the gap between users and restaurants, providing intuitive features like order tracking, menu updates, and efficient operations, addressing key needs in the food delivery ecosystem.",
       image:
@@ -181,17 +181,16 @@ export const Bio = {
        {
       id: 2,
       title: "Nomisma -Personal Finance and Budget Tracker",
-      date: "Sept 2024 - Present",
+      date: "Jan 2025 - April 2025",
       description:
-        "FoodDash is a dynamic food delivery platform offering dedicated interfaces for customers and restaurant owners. Built with React.js, TypeScript, ShadCN UI, and Tailwind CSS, it delivers a seamless user experience with a modern and responsive design. The backend, powered by Node.js and MongoDB, enables efficient data handling and real-time order management. Secure payments are facilitated through Stripe, while user authentication is managed via Auth0, ensuring robust security. This scalable application bridges the gap between users and restaurants, providing intuitive features like order tracking, menu updates, and efficient operations, addressing key needs in the food delivery ecosystem.",
-      image:
-        "https://github.com/user-attachments/assets/addfa786-b218-463d-ac9d-9e2560728b85",
+        "Nomisma is an intelligent personal finance tracker designed to help users manage their budgets, expenses, and financial goals effortlessly. Built with Next.js, TypeScript, ShadCN UI, and Tailwind CSS, it delivers a clean, responsive, and user-friendly interface. The backend is powered by Supabase, enabling secure, real-time data storage, authentication, and instant sync across devices.AI features are integrated via Gemini AI, allowing users to scan receipts and automatically categorize transactions with over 95% accuracy. Secure email notifications and budget reports are delivered using Resend and React Email, while background tasks and alerts are managed through Inngest.",
+      image: ""
       tags: [
         "React Js", "MongoDb", "Node Js", "Express Js", "Typescript", "Stripe" , "Auth0"
       ],
       category: "web app",
-      github: "https://github.com/MashookhKhanlol/Food-Delivery-App",
-      webapp: "https://meal-dash-frontend.onrender.com",
+      github: "https://github.com/MashookhKhanlol/Nomisma",
+      webapp: "https://nomisma-five.vercel.app/",
     },
     {
       id: 3,
