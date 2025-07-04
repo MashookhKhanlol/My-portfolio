@@ -184,7 +184,7 @@ export const Bio = {
       date: "Jan 2025 - April 2025",
       description:
         "Nomisma is an intelligent personal finance tracker designed to help users manage their budgets, expenses, and financial goals effortlessly. Built with Next.js, TypeScript, ShadCN UI, and Tailwind CSS, it delivers a clean, responsive, and user-friendly interface. The backend is powered by Supabase, enabling secure, real-time data storage, authentication, and instant sync across devices.AI features are integrated via Gemini AI, allowing users to scan receipts and automatically categorize transactions with over 95% accuracy. Secure email notifications and budget reports are delivered using Resend and React Email, while background tasks and alerts are managed through Inngest.",
-      image: ""
+      image: "https://github.com/user-attachments/assets/2dc2fb02-514f-47d9-b3e2-752cc0479ca3",
       tags: [
         "React Js", "MongoDb", "Node Js", "Express Js", "Typescript", "Stripe" , "Auth0"
       ],
